@@ -1,4 +1,4 @@
-# DY-mond Debug · Darin Zantzer
+# DY-mond Debug · D.Y.
 
 Solo builder. I ship open-source tools I actually run every day, then
 document them well enough that you can run them too.
